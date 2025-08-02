@@ -21,7 +21,7 @@ const jyotirlingas = {
     hover: "Sacred Shiva shrine in Ujjain"
   },
   omkareshwar: {
-    images: ["images/omkareshwar1.jpg", "images/omkareshwar.jpg"],
+    images: ["images/som1.jpg", "images/omkareshwar.jpg"],
     english: "<h2>Omkareshwar Jyotirlinga's History</h2>:-->Omkareshwar Jyotirlinga is one of the 12 revered Jyotirlingas in India, located on an island in the Narmada River in Madhya Pradesh.Nagara style with intricate carvings and stunning pillars. King Mandhata's penance led to Lord Shiva's manifestation as Omkareshwar Jyotirlinga. <h2>Key Points </h2>:-->Location:Omkareshwar,Madhya Pradesh,on an island in the Narmada River. <br>:-->Legend: King Mandhata's penance led to Lord Shiva's manifestation as Omkareshwar Jyotirlinga located on an island called Mandhata in the Narmada River in Madhya Pradesh.",
     hindi: "<h2>ओंकारेश्वर ज्योतिर्लिंग</h2>:-->ओंकारेश्वर ज्योतिर्लिंग मध्य प्रदेश के खंडवा जिले में नर्मदा नदी के बीच मन्धाता पर्वत पर स्थित है। यह द्वीप  ॐ के आकार में है। पौराणिक कथा के अनुसार,राजा मान्धाता ने भगवान शिव को प्रसन्न करने के लिए घोर तपस्या की,जिससे भगवान शिव ने उन्हें दर्शन दिए और यहाँ ज्योतिर्लिंग के रूप में विराजमान हो गए। <h2>मुख्य बिंदु</h2>:-->स्थान: ओंकारेश्वर, मध्य प्रदेश, नर्मदा नदी के बीच मन्धाता पर्वत पर <br> :-->पौराणिक कथा: राजा मान्धाता की तपस्या से भगवान शिव का प्राकट्य.रेश्वर मध्य प्रदेश में नर्मदा नदी के मंधाता नामक द्वीप पर स्थित है।",
     gujarati: "<h2>ઓમકારેશ્વર જ્યોતિર્લિંગ</h2>:-->ઓમકારેશ્વર જ્યોતિર્લિંગ મધ્ય પ્રદેશના ખંડવા જિલ્લામાં નર્મદા નદીના મધ્યમાં મંધાતા પર્વત પર સ્થિત છે. આ દ્વીપ  ઓમ ના આકારમાં છે. દંતકથા અનુસાર, રાજા મંધાતાએ ભગવાન શિવને પ્રસન્ન કરવા માટે ઘોર તપસ્યા કરી, જેથી ભગવાન શિવે તેમને દર્શન આપ્યા અને અહીં જ્યોતિર્લિંગના રૂપમાં વિરાજમાન થયા.<h2>મુખ્ય બિંદુઓ</h2>:-->સ્થાન:ઓમકારેશ્વર,મધ્ય પ્રદેશ,નર્મદા નદીના મધ્યમાં મંધાતા પર્વત પર. <br> :-->દંતકથા:રાજા મંધાતાની તપસ્યાથી ભગવાન શિવનો પ્રાકટ્ય.ર મધ્ય પ્રદેશમાં નર્મદા નદીના મંધાતા નામના દ્વીપ પર આવેલું છે.",
@@ -181,3 +181,4 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
